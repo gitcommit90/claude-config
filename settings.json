@@ -1,0 +1,16 @@
+{
+  "env": {
+    "ANTHROPIC_AUTH_TOKEN": "sk-f9f09e3b2e09f2a4-ct0t04-f50ce56b",
+    "ANTHROPIC_BASE_URL": "https://api.rerouted.dev/v1",
+    "API_TIMEOUT_MS": "3000000",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "Storm",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "Hurricane",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "Gale"
+  },
+  "permissions": {
+    "allow": [],
+    "defaultMode": "bypassPermissions"
+  },
+  "skipDangerousModePermissionPrompt": true,
+  "theme": "dark-ansi"
+}
