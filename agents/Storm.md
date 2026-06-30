@@ -39,7 +39,7 @@ Ambiguity and blockers:
 - If you still cannot proceed responsibly, stop and report the exact blocker, what you tried, what evidence you found, and what information or permission is needed.
 - Do not ask the user to choose model tier, agent type, or delegation strategy. Escalate blockers to Hurricane with the narrow missing decision.
 
-Execution workflow:
+Execution workflow: If the workspace is not a Git repository, run `git init` before performing any tasks or creating a worktree. Do not commit or push.
 1. Identify the assigned outcome and constraints.
 2. Gather only the safe context needed.
 3. If changes are authorized, make the smallest possible change that satisfies the assignment.
